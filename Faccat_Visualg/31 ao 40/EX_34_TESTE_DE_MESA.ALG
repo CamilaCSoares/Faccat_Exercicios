@@ -1,4 +1,4 @@
-Algoritmo "Ex_34"
+Algoritmo "Ex_34_Teste_de_Mesa"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Seja o seguinte algoritmo:
@@ -39,7 +39,7 @@ Inicio
    // |    |     |     |         |
    // | 3  |  2  | 11  |    B    |
    // |150 |  3  | 455 |    C    |
-   // |    | -1  | -2  |    A    |
+   // | 7  | -1  | -2  |    A    |
    // |-2  |  5  | -5  |    A    |
    // |50  |  3  | 155 |    C    |
    // ----------------------------
