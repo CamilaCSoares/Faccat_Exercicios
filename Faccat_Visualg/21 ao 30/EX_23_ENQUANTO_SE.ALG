@@ -38,9 +38,9 @@ Inicio
    Escreva ("Qua sua altura? ")
    Leia (Altura)
 
-   Se Sexo = "M" então
+   Se Sexo = "M" entao
       PesoIdeal <- 72,7 * Altura - 58
-   Senão
+   Senao
       PesoIdeal <- 62,1 * Altura – 44,7
    Fimse
 
