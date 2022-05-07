@@ -1,4 +1,4 @@
-Algoritmo "Ex_12_TesteLogico_Enquanto_Escolha"
+Algoritmo "Ex_12_TesteLogico_Escolha"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : Escreva um algoritmo para ler uma temperatura em graus
@@ -21,16 +21,7 @@ Inicio
    Escreval("Você quer coverter a temperatura para Celcius ou Fahrenheit?(C/f)")
    Leia (Converter)
 
-   Teste <- (Converter = "C") ou (Converter = "F")
-
-   Enquanto Teste <> VERDADEIRO faca
-      Escreval ("Você quer coverter a temperatura para Celcius ou Fahrenheit?")
-      Escreval("(Responda 'C' ou 'F')")
-      Leia (Converter)
-      Teste <- (Converter = "C") ou (Converter = "F")
-   FimEnquanto
-
-   Escolha (Converter)
+   Escolha (maiusc(Converter))
    Caso "C"
       Escreval ("Qual a temperatura em Fahrenheit? ")
       leia (Fahrenheit)
