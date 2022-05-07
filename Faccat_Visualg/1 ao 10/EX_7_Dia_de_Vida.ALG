@@ -7,22 +7,22 @@ Algoritmo "Ex_7"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 13/04/2022
 Var
-// Seção de Declarações das variáveis 
+   // Seção de Declarações das variáveis
 
-dia, mes, idade, diasdevida: inteiro
+   dia, mes, idade, diasdevida: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-Escreval ("Quantos anos você tem?: ")
-Leia (idade)
-Escreval ("Em que mês:")
-Leia (mes)
-Escreval ("Em que dia?:")
-Leia (dia)
+   Escreva ("Quantos anos você tem?: ")
+   Leia (idade)
+   Escreva ("Em que mês:")
+   Leia (mes)
+   Escreva ("Em que dia?:")
+   Leia (dia)
 
-diasdevida <- idade*365 + mes*30 + dia
+   diasdevida <- idade*365 + mes*30 + dia
 
-Escreval ("Você tem ", diasdevida, " dias de vida")
+   Escreval ("Você tem ", diasdevida, " dias de vida")
 
 Fimalgoritmo

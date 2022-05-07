@@ -10,20 +10,20 @@ Algoritmo "Ex_1"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 13/04/2022
 Var
-// Seção de Declarações das variáveis 
+   // Seção de Declarações das variáveis
 
-A, B, Apoio: inteiro
+   A, B, Apoio: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-A <- 10
-B <- 20
-Escreval ("A:",A," e B:",B)
-Apoio <- A
-A <- B
-B <- Apoio
-Escreval ("As variáveis com os valores trocados fica: ")
-Escreval ("A:",A," e B:",B)
+   A <- 10
+   B <- 20
+   Escreval ("A:",A," e B:",B)
+   Apoio <- A
+   A <- B
+   B <- Apoio
+   Escreval ("As variáveis com os valores trocados fica: ")
+   Escreval ("A:",A," e B:",B)
 
 Fimalgoritmo

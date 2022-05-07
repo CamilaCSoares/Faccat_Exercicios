@@ -1,4 +1,4 @@
-Algoritmo "Ex_2_B"
+Algoritmo "Ex_2_A"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : 2) Analise os algoritmos abaixo e diga o que será impresso
@@ -6,21 +6,19 @@ Algoritmo "Ex_2_B"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 13/04/2022
 Var
-// Seção de Declarações das variáveis
+   // Seção de Declarações das variáveis
 
-A, B, C : inteiro
+   A, B : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-A <- 30
-B <- 20
-C <- A + B
-Escreval ("C:",C)
-B <- 10
-Escreval ("B:" ,B," e C:" ,C)
-C <- A + B
-Escreval ("A:" ,A, " ,B:" ,B," e C:" ,C)
+   A <- 10
+   B <- 20
+   Escreval ("B:",B)
+   B <- 5
+   escreval ("Com o valor do B mudado fica:")
+   Escreva ("A:" ,A," e B:" ,B)
 
 
 Fimalgoritmo

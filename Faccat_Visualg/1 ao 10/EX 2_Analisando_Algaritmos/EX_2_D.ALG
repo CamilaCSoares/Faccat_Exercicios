@@ -1,4 +1,4 @@
-Algoritmo "Ex_2_F"
+Algoritmo "Ex_2_D"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Obama
 // Descrição   : 2) Analise os algoritmos abaixo e diga o que será impresso
@@ -6,19 +6,19 @@ Algoritmo "Ex_2_F"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 13/04/2022
 Var
-// Seção de Declarações das variáveis
+   // Seção de Declarações das variáveis
 
-X, Y, Z : inteiro
+   A, B : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-X <- 1
-Y <- 2
-Z <- Y - X
-Escreval ("Z:" ,Z)
-X <- 5
-Y <- X + Z
-Escreval ("X:" ,X, " ,Y:" ,Y," e Z:" ,Z)
+   A <- 10
+   B <- A + 1
+   A <- B + 1
+   B <- A + 1
+   Escreval ("A:" ,A)
+   A <- B + 1
+   Escreval ("A:" ,A, " e B:" ,B)
 
 Fimalgoritmo

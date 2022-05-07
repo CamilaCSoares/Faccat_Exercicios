@@ -6,18 +6,18 @@ Algoritmo "Ex_2_C"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 13/04/2022
 Var
-// Seção de Declarações das variáveis
+   // Seção de Declarações das variáveis
 
-A, B, C : inteiro
+   A, B, C : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-A <- 10
-B <- 20
-C <- A
-B <- C
-A <- B
-Escreval ("A:" ,A, " ,B:" ,B," e C:" ,C)
+   A <- 10
+   B <- 20
+   C <- A
+   B <- C
+   A <- B
+   Escreval ("A:" ,A, " ,B:" ,B," e C:" ,C)
 
 Fimalgoritmo

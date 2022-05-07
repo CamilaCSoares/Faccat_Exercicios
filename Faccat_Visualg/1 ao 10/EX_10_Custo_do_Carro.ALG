@@ -10,20 +10,20 @@ Algoritmo "EX_10"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 23/03/2022
 Var
-// Seção de Declarações das variáveis 
+   // Seção de Declarações das variáveis
 
-PorcentagemDistri, Impostos: real
-CustoFinal,CustoFabrica: real
+   PorcentagemDistri, Impostos: real
+   CustoFinal,CustoFabrica: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-Escreva ("Qual o custo de fábrica do carro? ")
-Leia (CustoFabrica)
-PorcentagemDistri <- 28/100
-Impostos <- 45/100
-CustoFinal <- (CustoFabrica * PorcentagemDistri) + (CustoFabrica* Impostos) + CustoFabrica
+   Escreva ("Qual o custo de fábrica do carro? ")
+   Leia (CustoFabrica)
+   PorcentagemDistri <- 28/100
+   Impostos <- 45/100
+   CustoFinal <- (CustoFabrica * PorcentagemDistri) + (CustoFabrica* Impostos) + CustoFabrica
 
-Escreva ("O custo final do carro será de: ",CustoFinal)
+   Escreva ("O custo final do carro será de: ",CustoFinal)
 
 Fimalgoritmo
