@@ -11,27 +11,27 @@ Algoritmo "Ex_26"
 // Autor(a)    : Camila Carla Soares
 // Data atual  : 16/04/2022
 Var
-// Seção de Declarações das variáveis 
+   // Seção de Declarações das variáveis
 
-QuantEstoque, QuantMax, QuantMin: inteiro
-QuantMedia: real
+   QuantEstoque, QuantMax, QuantMin: inteiro
+   QuantMedia: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-Escreva ("Digite a quantidade atual em estoque: ")
-Leia (QuantEstoque)
-Escreva ("Digite a quantidade máxima em estoque: ")
-Leia (QuantMax)
-Escreva ("Digite a quantidade mínima em estoque de um produto:")
-Leia (QuantMin)
+   Escreva ("Digite a quantidade atual em estoque: ")
+   Leia (QuantEstoque)
+   Escreva ("Digite a quantidade máxima em estoque: ")
+   Leia (QuantMax)
+   Escreva ("Digite a quantidade mínima em estoque de um produto:")
+   Leia (QuantMin)
 
-QuantMedia <- (QuantMax + QuantMin)/2
+   QuantMedia <- (QuantMax + QuantMin)/2
 
-Se QuantEstoque >= QuantMedia entao
-Escreva ("Não Efetuar compra")
-Senao
-Escreva ("Efetuar compra")
-Fimse
+   Se QuantEstoque >= QuantMedia entao
+      Escreva ("Não Efetuar compra")
+   Senao
+      Escreva ("Efetuar compra")
+   Fimse
 
 Fimalgoritmo

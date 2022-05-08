@@ -27,7 +27,7 @@ Inicio
    Teste <- (Hora1<0) ou (Hora1>24)
 
    Enquanto teste <> FALSO faca
-      Escreval ("Coloque um número que correspanda a horas")
+      Escreval ("Coloque um número que corresponda a horas")
       Escreva ("Quando começou sua partida? ")
       Leia(Hora1)
       Teste <- (Hora1<0) ou (Hora1>24)
@@ -39,7 +39,7 @@ Inicio
    Teste <- (Hora2<0) ou (Hora2>24)
 
    Enquanto teste <> FALSO faca
-      Escreval ("Coloque um número que correspanda a horas")
+      Escreval ("Coloque um número que corresponda a horas")
       Escreva ("Quando terminou? ")
       Leia(Hora2)
       Teste <- (Hora2<0) ou (Hora2>24)
