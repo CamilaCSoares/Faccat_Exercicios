@@ -36,7 +36,7 @@ Inicio
       Se (Quant > 5) e (Quant <= 10) entao
          Desconto <- Total*3/100
       Senao
-           Desconto <- Total*5/100 entao
+           Desconto <- Total*5/100
       FimSe
    FimSe
    
