@@ -53,6 +53,7 @@ Inicio
    Enquanto Teste <> VERDADEIRO faca
       Escreval("A partida de xadrez terminou no mesmo dia?")
       Escreval ("Responda 'S' ou 'N'")
+      Leia (Terminou)
       Teste <- (Terminou = "S") ou (Terminou = "N")
    Fimenquanto
 
