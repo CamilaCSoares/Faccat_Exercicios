@@ -34,11 +34,11 @@ var Altura = parseFloat(prompt("Qua sua altura? "))
 
 if (Sexo.toUpperCase() == "M") {
 
-    PesoIdeal = 72,7 * Altura - 58
+    PesoIdeal = 72.7 * Altura - 58
 
 } else {
 
-    PesoIdeal = 62,1 * Altura - 44,7
+    PesoIdeal = 62.1 * Altura - 44.7
 }
 
 alert(`Seu peso ideal é: ${PesoIdeal}`)

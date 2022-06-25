@@ -39,9 +39,9 @@ Inicio
    Leia (Altura)
 
    Se Sexo = "M" entao
-      PesoIdeal <- 72,7 * Altura - 58
+      PesoIdeal <- 72.7 * Altura-58
    Senao
-      PesoIdeal <- 62,1 * Altura – 44,7
+      PesoIdeal <- 62.1 * Altura-44.7
    Fimse
 
    Escreval ("")

@@ -48,7 +48,7 @@ if (((Primeiro < Segundo) && (Primeiro > Terceiro)) || ((Primeiro > Segundo) && 
 
 }else{
 
-    MeioTermo <- Terceiro
+    MeioTermo = Terceiro
 }
 
 alert("Em ordem crescente: " +Menor+ " , " +MeioTermo+ " e " +Maior)
