@@ -51,7 +51,7 @@ Inicio
 
    //soma das idades do homem mais novo com a mulher mais velha.
 
-   SomHomNMulV <- IdadeH[1] + IdadeM[2]
+   SomHomNMulV <- IdadeH[1] * IdadeM[2]
    Escreval ("Homem mais NOVO com a Mulher mais VELHA: ",SomHomNMulV)
 
 Fimalgoritmo
