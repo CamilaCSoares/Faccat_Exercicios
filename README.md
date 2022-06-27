@@ -5,7 +5,7 @@
 
 <div align="center">
   
-<img src="https://www.milldesk.com.br/wp-content/uploads/2019/09/computador-legal-milldesk-giphy.gif" width="500px">
+<img src="https://www.milldesk.com.br/wp-content/uploads/2019/09/computador-legal-milldesk-giphy.gif" width="1000px">
   
 </div><br>
 
