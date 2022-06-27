@@ -23,7 +23,7 @@ Repositório contendo Exercícios do Faccat propostos pelo professor Jailson do 
 
 <br>
 
-<div align="center" height="360em">
+<div height="360em">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaCSoares&repo=Manzano_Exercicos&theme=dracula)](https://github.com/CamilaCSoares/Manzano_Exercicos.git) 
 
