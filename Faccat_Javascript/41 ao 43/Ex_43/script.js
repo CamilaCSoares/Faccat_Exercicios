@@ -66,7 +66,7 @@ if ((A < B + C) && (B < A + C) && (C < A + C)) {
     }
 } else{
 
-    Mens < -"Não e possível formar um triângulo"
+    Mens = "Não e possível formar um triângulo"
 }
 
 alert(Mens)
