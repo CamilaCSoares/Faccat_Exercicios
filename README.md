@@ -15,7 +15,7 @@ Repositório contendo Exercícios do Faccat propostos pelo professor Jailson do 
 - 5 ao 43
 - Em Portugol, Javascript e Java
 
-### No total 152 exercícios
+### No total 152 exercícios concluídos.
 
 <br>
 
